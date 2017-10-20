@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>yv12Display.fsh</file>
+        <file>yv12Display.vsh</file>
+        <file>yv12DisplayWithOverlay.fsh</file>
+        <file>yv12DisplayWithOverlay.vsh</file>
+        <file>previewgrayscale.fsh</file>
+        <file>previewgrayscale.vsh</file>
+    </qresource>
+</RCC>
